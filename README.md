@@ -5,10 +5,11 @@
 - pip (trình quản lý gói Python)
 
 ### Cài đặt
-1. Clone repository về máy:
-   ```bash
-   git clone <repository-url>
-   cd object_detection_yolo
+Clone repository về máy:
+```bash
+git clone <repository-url>
+cd object_detection_yolo
+```
 
 ### Tạo môi trường ảo
 ```terminal
